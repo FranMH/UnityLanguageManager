@@ -1,0 +1,62 @@
+{
+	"languages" : [
+		{
+			"id" : "tittle",
+			"English" : "Read languages from json ",
+			"Spanish" : "Leer idiomas de json",
+			"Catalan" : "Llegir idiomes des de json",
+			"French" : "Lire les langues de json",
+			"German" : "Lesen Sie Sprachen von json"
+
+		},
+		{
+			"id" : "dictionary_language",
+			"English" : "Language",
+			"Spanish" : "Idioma",
+			"Catalan" : "Llenguatge",
+			"French" : "Langue",
+			"German" : "Sprache"
+		},
+		{
+			"id" : "dictionary_key",
+			"English" : "Key",
+			"Spanish" : "Clave",
+			"Catalan" : "Clau",
+			"French" : "clé",
+			"German" : "Schlüssel"
+		},
+		{
+			"id" : "show_button",
+			"English" : "Show",
+			"Spanish" : "Mostrar",
+			"Catalan" : "Mostra",
+			"French" : "Montrer",
+			"German" : "Zeigen"
+		},
+		{
+			"id" : "value_text",
+			"English" : "Value text",
+			"Spanish" : "Texto de valor",
+			"Catalan" : "Text de valor",
+			"French" : "Texte de valeur",
+			"German" : "Wertetext"
+		},
+		{
+			"id" : "random_text0",
+			"English" : "en0",
+			"Spanish" : "es0",
+			"Catalan" : "cat0",
+			"French" : "fr0",
+			"German" : "de0"
+		}
+		,
+		{
+			"id" : "random_text1",
+			"English" : "en1",
+			"Spanish" : "es1",
+			"Catalan" : "cat1",
+			"French" : "fr1",
+			"German" : "de1"
+		}
+	]
+}
